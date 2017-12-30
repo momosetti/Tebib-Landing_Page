@@ -1,0 +1,12 @@
+@charset 'UTF-8';
+@font-face {
+  src: url('utm_avo.ttf') format('truetype');
+  font-family: 'utm-avo';
+  font-weight: normal;
+  font-style: normal;
+}
+.utm-avo-change { 
+	font-family: 'utm-avo';
+ 	font-size: 40px;
+ 	text-align: left;
+  }
